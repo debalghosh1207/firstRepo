@@ -1,0 +1,1 @@
+def myFun(str):
